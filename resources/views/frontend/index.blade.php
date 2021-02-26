@@ -67,7 +67,7 @@
   <!-- ======= Hero Section ======= -->
   <section id="hero">
     <div class="hero-container" data-aos="fade-up">
-      <h1>TRACKING COVID19</h1>
+      <h1>TRACKING COVID 19</h1>
       <h2></h2>
       
     </div>
@@ -79,7 +79,7 @@
     <section id="about" class="about">
       <div class="container" >
       <div class="section-title" data-aos="zoom-out">
-      <br><h2>Data Kasus Covid-19</h2>
+      <br><h2>Data Kasus Covid 19</h2>
       </div>
         <div class="row justify-content-end">
           <div class="col-lg-11">
@@ -219,58 +219,35 @@
     <!-- ======= Services Section ======= -->
     <section id="services" class="services  section-bg ">
       <div class="container">
-
       <div class="section-title pt-5" data-aos="fade-up">
           <h2>Tentang Virus Corona</h2>
         </div>
-
         <div class="row">
-          <div class="col-md-12 col-xl-6">
+          <div class="col-md-80 col-xl-15">
             <div class="icon-box" data-aos="fade-up">
               <div class="icon"><i class="card text-white "></i></div>
-              <h4 class="title"><a href="https://www.unicef.org/indonesia/id/coronavirus">Novel Coronavirus (COVID-19)</a></h4>
-              <p class="description">Hal-hal yang perlu anda ketahui</p>
+              <p class="description"><h5>Coronavirus merupakan keluarga besar virus yang menyebabkan penyakit pada manusia dan hewan. Pada manusia biasanya menyebabkan penyakit infeksi saluran pernapasan, mulai flu biasa hingga penyakit yang serius seperti Middle East Respiratory Syndrome (MERS) dan Sindrom Pernafasan Akut Berat.
+                Coronavirus jenis baru yang ditemukan pada manusia sejak kejadian luar biasa muncul di Wuhan Cina, pada Desember 2019, kemudian diberi nama Severe Acute Respiratory Syndrome Coronavirus
+                dan menyebabkan penyakit Coronavirus Disease-2019 (COVID-19).</h5></p>
             </div>
           </div>
-          <div class="col-md-6">
-            <div class="icon-box" data-aos="fade-up">
-              <div class="icon"><i class="" style="color: color: #ff689b;"></i></div>
-              <h4 class="title"><a href="https://www.kompas.com/tren/read/2020/03/03/183500265/infografik-daftar-100-rumah-sakit-rujukan-penanganan-virus-corona"> Daftar Rumah Sakit</a></h4>
-              <p class="description">Daftar Rumah Sakit Rujukan Penanganan Virus Corona</p>
-            </div>
-          </div>
-
-          <div class="col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon-box">
-              <div class="icon"><i class="" style="color: #3fcdc7;"></i></div>
-              <h4 class="title"><a href="https://infeksiemerging.kemkes.go.id/">Media Informasi</a></h4>
-              <p class="description">Media Informasi Resmi Penyakit Infeksi Emerging</p>
-            </div>
-          </div>
-          <div class="col-md-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="icon-box">
-              <div class="icon"><i class="" style="color:#41cf2e;"></i></div>
-              <h4 class="title"><a href="https://www.who.int/emergencies/diseases/novel-coronavirus-2019/advice-for-public"> Coronavirus Disease(COVID-19)</a></h4>
-              <p class="description">Coronavirus Disease Advice For The Public</p>
-            </div>
-          </div>
+        </div>
       </div>
     </section><!-- End Services Section -->
   </main><!-- End #main -->
 
   <!-- ======= Footer ======= -->
-  <footer id="footer">
+  <footer id="footer"> 
     <div class="footer-top">
       <div class="container">
         <div class="row">
-
-          <div class="col-lg-3 col-md-6 footer-contact">
+          <div class="col-md-12 footer-contact">
            <center> <h4>Tracking Covid</h4>
             <p>
                 JL.Situtarate - Cibaduyut <br>
                 Kab.Bandung<br><br>
               <strong>Phone:</strong> +62 856 5955 6428<br>
-              <strong>Email:</strong> smkassalaambandung.sch.id/<br>
+              <strong>Email:</strong> smkassalaambandung.sch.id<br>
             </p>
             </center>
           </div>  
@@ -287,13 +264,11 @@
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/serenity-bootstrap-corporate-template/ -->
-       <a href="https://bootstrapmade.com/">BootstrapMade</a>
       </div>
     </div>
   </footer><!-- End Footer -->
 
-  <a href="#" class="back-to-top"><i class="icofont-simple-up"></i></a>
-
+  
   <!-- Vendor JS Files -->
   <script src="frontend/assets/vendor/jquery/jquery.min.js"></script>
   <script src="frontend/assets/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
