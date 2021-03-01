@@ -112,14 +112,6 @@
                 </div>
               </div>
 
-              <div class="col-lg-3 col-md-5 col-6 d-md-flex align-items-md-stretch">
-                <div class="count-box pb-5 pt-0 pt-lg-5">
-                  <i class="icofont-globe"></i>
-                  <p>Kasus Data Global</p>
-                  <span data-toggle="counter-up"><?php echo $posglobal['value'] ?></span>
-                  <p>Orang</p>
-                </div>
-              </div>
 
             </div>
           </div>
@@ -190,20 +182,6 @@
                     <th scope="col"><center>Meninggal</center></th>
                   </tr>
                 </thead>
-              <tbody>
-              @php
-                $no = 1;
-              @endphp
-                @foreach($dunia as $data)
-                    <tr>
-                      <td> <?php echo $no++ ?></td>
-                      <td> <?php echo $data['attributes']['Country_Region'] ?></td>
-                      <td> <?php echo number_format($data['attributes']['Confirmed']) ?></td>
-                      <td><?php echo number_format($data['attributes']['Recovered'])?></td>
-                      <td><?php echo number_format($data['attributes']['Deaths'])?></td>
-                    </tr>
-                  @endforeach
-                </tbody>
                 
               </table>
             </div>

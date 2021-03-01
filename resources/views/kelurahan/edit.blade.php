@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-10">
             <div class="card">
-                <div class="card-header">Edit Kelurahan</div>
+                <div class="card-header"><b>Edit Data Kelurahan</b></div>
                 <div class="card-body">
                     <form action="{{route('kelurahan.update',$kelurahan->id)}}" method="POST">
                         @csrf

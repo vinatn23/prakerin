@@ -5,7 +5,7 @@
     <div class="row justify-content-center">
         <div class="col-md-10">
             <div class="card">
-                <div class="card-header">Edit Kecamatan</div>
+                <div class="card-header"><b>Edit Data Kecamatan</b></div>
                 <div class="card-body">
                     <form action="{{route('kecamatan.update',$kecamatan->id)}}" method="POST">
                         @csrf
